@@ -1,0 +1,13 @@
+# Node Dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Python Virtual Environments & Environments
+backend/env/
+backend/.env
+__pycache__/
+*.pyc
+
+# Local IDE configuration files
+.vscode/
+.idea/
